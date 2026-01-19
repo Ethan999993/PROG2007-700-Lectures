@@ -1,6 +1,6 @@
 section .data 
-  dividend dq 50
-  divisor dq 7
+  dividend dq 99
+  divisor dq 3
 
 section .text
     global _start
